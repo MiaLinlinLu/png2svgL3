@@ -6,7 +6,7 @@ setup(
     description='A library to convert PNG images to SVG format',
     author='Linlin Lu',
     author_email='linlinlu13@gmail.com',
-    url='https://github.com/mialinlinlu/png2svgl3',
+    url='https://github.com/mialinlinlu/png2svgL3',
     packages=['png2svgL3'],
     install_requires=[
         'Pillow'
